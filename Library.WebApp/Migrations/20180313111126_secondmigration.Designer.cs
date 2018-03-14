@@ -11,9 +11,10 @@ using System;
 namespace Library.WebApp.Migrations
 {
     [DbContext(typeof(LibraryContext))]
-    partial class LibraryContextModelSnapshot : ModelSnapshot
+    [Migration("20180313111126_secondmigration")]
+    partial class secondmigration
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -69,7 +70,7 @@ namespace Library.WebApp.Migrations
 
                     b.HasIndex("BookId");
 
-                    b.ToTable("BooksAuthors");
+                    b.ToTable("BookAuthor");
                 });
 
             modelBuilder.Entity("Library.WebApp.Models.Location", b =>

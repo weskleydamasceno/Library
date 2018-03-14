@@ -19,12 +19,7 @@ namespace Library.WebApp.Models
         public DbSet<Location> Locations { get; set; }
         public DbSet<LocationBook> LocationsBooks { get; set; }
         public DbSet<User> Users { get; set; }
+        public DbSet<BookAuthor> BooksAuthors { get; set; }
 
-        private static IConfigurationRoot Configuration;
-
-        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-        {
-            optionsBuilder.UseSqlServer("Server=DESKTOP-FTVDIB4\\WESKLEYSQL;Database=dbLibrary;User Id=sa;Password=123456");
-        }
     }
 }

@@ -9,3 +9,14 @@ C:\Users\weskley\source\repos\Library\Library.WebApp\obj\Debug\netcoreapp2.0\Lib
 C:\Users\weskley\source\repos\Library\Library.WebApp\bin\Debug\netcoreapp2.0\Library.WebApp.pdb
 C:\Users\weskley\source\repos\Library\Library.WebApp\obj\Debug\netcoreapp2.0\Library.WebApp.dll
 C:\Users\weskley\source\repos\Library\Library.WebApp\obj\Debug\netcoreapp2.0\Library.WebApp.pdb
+C:\Users\weskley\Documents\BCC\S5\LP2\Library\Library\Library.WebApp\bin\Debug\netcoreapp2.0\Library.WebApp.deps.json
+C:\Users\weskley\Documents\BCC\S5\LP2\Library\Library\Library.WebApp\bin\Debug\netcoreapp2.0\Library.WebApp.runtimeconfig.json
+C:\Users\weskley\Documents\BCC\S5\LP2\Library\Library\Library.WebApp\bin\Debug\netcoreapp2.0\Library.WebApp.runtimeconfig.dev.json
+C:\Users\weskley\Documents\BCC\S5\LP2\Library\Library\Library.WebApp\bin\Debug\netcoreapp2.0\Library.WebApp.dll
+C:\Users\weskley\Documents\BCC\S5\LP2\Library\Library\Library.WebApp\bin\Debug\netcoreapp2.0\Library.WebApp.pdb
+C:\Users\weskley\Documents\BCC\S5\LP2\Library\Library\Library.WebApp\obj\Debug\netcoreapp2.0\Library.WebApp.csprojResolveAssemblyReference.cache
+C:\Users\weskley\Documents\BCC\S5\LP2\Library\Library\Library.WebApp\obj\Debug\netcoreapp2.0\Library.WebApp.csproj.CoreCompileInputs.cache
+C:\Users\weskley\Documents\BCC\S5\LP2\Library\Library\Library.WebApp\obj\Debug\netcoreapp2.0\Library.WebApp.AssemblyInfoInputs.cache
+C:\Users\weskley\Documents\BCC\S5\LP2\Library\Library\Library.WebApp\obj\Debug\netcoreapp2.0\Library.WebApp.AssemblyInfo.cs
+C:\Users\weskley\Documents\BCC\S5\LP2\Library\Library\Library.WebApp\obj\Debug\netcoreapp2.0\Library.WebApp.dll
+C:\Users\weskley\Documents\BCC\S5\LP2\Library\Library\Library.WebApp\obj\Debug\netcoreapp2.0\Library.WebApp.pdb

@@ -12549,11 +12549,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\weskley\\source\\repos\\Library\\Library.WebApp\\Library.WebApp.csproj",
+      "projectUniqueName": "C:\\Users\\weskley\\Documents\\BCC\\S5\\LP2\\Library\\Library\\Library.WebApp\\Library.WebApp.csproj",
       "projectName": "Library.WebApp",
-      "projectPath": "C:\\Users\\weskley\\source\\repos\\Library\\Library.WebApp\\Library.WebApp.csproj",
+      "projectPath": "C:\\Users\\weskley\\Documents\\BCC\\S5\\LP2\\Library\\Library\\Library.WebApp\\Library.WebApp.csproj",
       "packagesPath": "C:\\Users\\weskley\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\weskley\\source\\repos\\Library\\Library.WebApp\\obj\\",
+      "outputPath": "C:\\Users\\weskley\\Documents\\BCC\\S5\\LP2\\Library\\Library\\Library.WebApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
